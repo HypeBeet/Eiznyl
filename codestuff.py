@@ -31,5 +31,5 @@ def q4():
 		if not i % 5 or not i % 3:
 			sum1 = sum1 + i
 	print("Calculated product:", sum1)	
-def q7():
+
 	
