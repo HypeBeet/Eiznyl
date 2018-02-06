@@ -18,21 +18,21 @@ while(True):
 	if choice == '1':
 		from codestuff import * 
 		q1()
-	elif choice == '8':
-		break
 	elif choice == '2':
 		from codestuff import *
 		q2()
 	elif choice == '3':
 		from codestuff import *
 		q3()
+	elif choice == '4':
+		from codestuff import *
+		q4()
 	elif choice == '5':
 		from codestuff import *
 		q5()
 	elif choice == '6':
 		from codestuff import *
 		q6()
-	elif choice == '4':
-		from codestuff import *
-		q4()
+	elif choice == '8':
+		break 
 

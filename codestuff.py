@@ -30,4 +30,4 @@ def q4():
 	for i in range(0, num + 1):
 		if not i % 5 or not i % 3:
 			sum1 = sum1 + i
-	print(sum1)	
+	print("Calculated product:", sum1)	
