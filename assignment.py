@@ -32,4 +32,7 @@ while(True):
 	elif choice == '6':
 		from codestuff import *
 		q6()
+	elif choice == '4':
+		from codestuff import *
+		q4()
 
