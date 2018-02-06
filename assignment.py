@@ -35,4 +35,7 @@ while(True):
 		q6()
 	elif choice == '8':
 		break 
+	elif choice == '7':
+		from Guessing import *
+		q7()
 
